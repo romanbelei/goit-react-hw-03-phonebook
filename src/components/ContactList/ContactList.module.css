@@ -1,0 +1,12 @@
+.buttonDelete {
+  width: 70px;
+}
+
+.contactList {
+  width: 320px;
+}
+
+.itemList {
+  display: flex;
+  justify-content: space-between;
+}
